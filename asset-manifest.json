@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/valinvitation/static/css/main.f83dda73.chunk.css",
+    "main.js": "/valinvitation/static/js/main.38d85148.chunk.js",
+    "main.js.map": "/valinvitation/static/js/main.38d85148.chunk.js.map",
+    "runtime~main.js": "/valinvitation/static/js/runtime~main.64343aa2.js",
+    "runtime~main.js.map": "/valinvitation/static/js/runtime~main.64343aa2.js.map",
+    "static/js/2.a2b181a3.chunk.js": "/valinvitation/static/js/2.a2b181a3.chunk.js",
+    "static/js/2.a2b181a3.chunk.js.map": "/valinvitation/static/js/2.a2b181a3.chunk.js.map",
+    "static/js/3.940f5f6f.chunk.js": "/valinvitation/static/js/3.940f5f6f.chunk.js",
+    "static/js/3.940f5f6f.chunk.js.map": "/valinvitation/static/js/3.940f5f6f.chunk.js.map",
+    "index.html": "/valinvitation/index.html",
+    "precache-manifest.bb42866da3d23fd3890e1a34fc5777f8.js": "/valinvitation/precache-manifest.bb42866da3d23fd3890e1a34fc5777f8.js",
+    "service-worker.js": "/valinvitation/service-worker.js",
+    "static/css/main.f83dda73.chunk.css.map": "/valinvitation/static/css/main.f83dda73.chunk.css.map"
+  }
+}
